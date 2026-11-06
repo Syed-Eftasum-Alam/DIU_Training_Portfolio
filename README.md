@@ -67,3 +67,7 @@ AI-Powered Workplace Productivity & Smart Office Practices was held for COATS Ba
 ## Organization logos and additional photographs
 
 The site uses the supplied DIU and CSE logos in its header, footer and program organizer panels. Participant company logos appear on program cards, program pages and the homepage participant section; collaborator logos appear on the homepage and relevant program pages. Logo provenance is recorded in assets/logos/SOURCES.md. Program 2 now includes 10 supplied photographs. Participant logos identify the organizations whose employees attended; they are not endorsements.
+
+## Advisor and trainer dossiers
+
+The homepage advisor section appears immediately above the trainers. Advisor profiles can be edited in the Our Advisor editor tab. Dr. Noori’s portrait was supplied by the user; his designation and academic summary reference his official DIU faculty profile. Trainer records support an optional dossierUrl linking to a local CV PDF. Syed Eftasum Alam’s supplied CV is available as assets/dossiers/syed-eftasum-alam-cv.pdf. Dossier links appear only when a PDF is provided. Upload the new assets together with the updated code and content.json to GitHub.

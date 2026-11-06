@@ -46,3 +46,17 @@
 
 /* Linked faculty portraits */
 .portrait>a{display:grid;place-items:center;width:100%;height:100%;overflow:hidden}.portrait img{object-position:center top}.person h3 a:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px}
+
+/* Advisor and trainer dossiers */
+.profile-links{display:flex;gap:20px;flex-wrap:wrap;align-items:center}
+.advisor-card{display:grid;grid-template-columns:minmax(220px,320px) minmax(0,1fr);gap:60px;align-items:center;max-width:1050px}
+.advisor-portrait{background:var(--pale);overflow:hidden}.advisor-portrait a{display:block}.advisor-portrait img{width:100%;height:auto;aspect-ratio:3 / 4;object-fit:cover;object-position:center top}
+.advisor-copy h3{font-size:clamp(25px,3vw,38px);line-height:1.25}.advisor-copy h3 a:hover{text-decoration:underline}.advisor-copy>p{color:var(--muted)}.advisor-copy .advisor-designation{font-weight:600;color:var(--green)}.advisor-copy .eyebrow{color:var(--green)}
+@media(max-width:760px){.advisor-card{grid-template-columns:1fr;gap:28px}.advisor-portrait{max-width:300px}.advisor-copy h3{font-size:28px}}
+
+
+/* Quiet document links beneath trainer profiles. */
+.dossier-document{display:flex;align-items:center;gap:13px;border-top:1px solid var(--line);padding:16px 0 3px;margin-top:20px;max-width:340px;color:var(--blue)}
+.dossier-icon{width:27px;flex-shrink:0;display:flex}.dossier-icon svg{width:27px;height:32px}
+.dossier-copy{display:flex;flex-direction:column;gap:3px}.dossier-label{font-size:9px;letter-spacing:.14em;font-weight:600;color:var(--muted)}.dossier-title{font-size:14px;font-weight:600;line-height:1.5}.dossier-end{margin-left:auto;font-size:23px;font-weight:400}
+a.dossier-document:hover{color:var(--green)}a.dossier-document:hover .dossier-title{text-decoration:underline;text-underline-offset:4px}.dossier-pending{color:#85929e}.dossier-pending .dossier-title{font-size:12px;font-weight:400;color:var(--muted)}.dossier-pending .dossier-label{color:#85929e}

@@ -201,7 +201,8 @@
       "biography": "Program trainer for the July 2026 Titas Gas PLC training and the October 2026 COATS Bangladesh training. Sessions covered AI tools, AI fundamentals, responsible use and workplace applications.",
       "photo": "assets/faculty/samia-nawshin.webp",
       "profileUrl": "https://faculty.daffodilvarsity.edu.bd/profile/cse/samia.html",
-      "placeholder": false
+      "placeholder": false,
+      "dossierUrl": ""
     },
     {
       "id": "syed-eftasum-alam",
@@ -214,7 +215,8 @@
       "biography": "Program trainer for NotebookLM research and productivity in the July 2026 Titas Gas PLC program, and Analysis, Planning & Presentation Productivity in the October 2026 COATS Bangladesh program.",
       "photo": "assets/faculty/syed-eftasum-alam.webp",
       "profileUrl": "https://faculty.daffodilvarsity.edu.bd/profile/cse/eftasum.html",
-      "placeholder": false
+      "placeholder": false,
+      "dossierUrl": "assets/dossiers/syed-eftasum-alam-cv.pdf"
     },
     {
       "id": "mehfujur-rahman-mubin",
@@ -226,7 +228,8 @@
       "biography": "Led the scheduled sessions on perplexity ai and prompt engineering for the AI-Powered Productivity Transformation & Strategic Leadership Training, 16–18 July 2026.",
       "photo": "assets/faculty/mehfujur-rahman-mubin.webp",
       "profileUrl": "https://faculty.daffodilvarsity.edu.bd/profile/cse/mehefujur.html",
-      "placeholder": false
+      "placeholder": false,
+      "dossierUrl": ""
     },
     {
       "id": "hafijur-rahman",
@@ -238,7 +241,8 @@
       "biography": "Led the scheduled sessions on leadership building for the AI-Powered Productivity Transformation & Strategic Leadership Training, 16–18 July 2026.",
       "photo": "",
       "profileUrl": "",
-      "placeholder": false
+      "placeholder": false,
+      "dossierUrl": ""
     },
     {
       "id": "tanvirul-islam",
@@ -250,7 +254,8 @@
       "biography": "Led the scheduled sessions on canva presentation design for the AI-Powered Productivity Transformation & Strategic Leadership Training, 16–18 July 2026.",
       "photo": "assets/faculty/tanvirul-islam.webp",
       "profileUrl": "https://faculty.daffodilvarsity.edu.bd/profile/cse/tanvirulcse.html",
-      "placeholder": false
+      "placeholder": false,
+      "dossierUrl": ""
     },
     {
       "id": "shaswata-bhattacharya",
@@ -263,7 +268,8 @@
       "biography": "Program trainer for AI content creation and internal tool development in the July 2026 Titas Gas PLC program, and the Integrated Hands-On Workplace Challenge & Assessment in the October 2026 COATS Bangladesh program.",
       "photo": "assets/faculty/shaswata-bhattacharya.webp",
       "profileUrl": "https://faculty.daffodilvarsity.edu.bd/profile/cse/shaswata.html",
-      "placeholder": false
+      "placeholder": false,
+      "dossierUrl": ""
     },
     {
       "id": "md-taufik-hasan",
@@ -275,7 +281,8 @@
       "biography": "Led the scheduled sessions on digital video production for the AI-Powered Productivity Transformation & Strategic Leadership Training, 16–18 July 2026.",
       "photo": "assets/faculty/md-taufik-hasan.webp",
       "profileUrl": "https://faculty.daffodilvarsity.edu.bd/profile/cse/taufikhasan.html",
-      "placeholder": false
+      "placeholder": false,
+      "dossierUrl": ""
     },
     {
       "id": "forhad-zahid-shaikh",
@@ -284,10 +291,11 @@
       "expertise": [
         "Responsible AI use"
       ],
-      "biography": "Led the scheduled sessions on ethical aspects of ai for the AI-Powered Productivity Transformation & Strategic Leadership Training, 16–18 July 2026.",
-      "photo": "",
-      "profileUrl": "",
-      "placeholder": false
+      "biography": "Led the session on ethical aspects of AI for the AI-Powered Productivity Transformation & Strategic Leadership Training, 16–18 July 2026.",
+      "photo": "assets/faculty/forhad-zahid-shaikh.webp",
+      "profileUrl": "https://www.linkedin.com/in/forhadzahidshaikh/",
+      "placeholder": false,
+      "dossierUrl": ""
     },
     {
       "id": "mezbaul-islam-zion",
@@ -299,7 +307,8 @@
       "biography": "Led the scheduled sessions on ai design and development for the AI-Powered Productivity Transformation & Strategic Leadership Training, 16–18 July 2026.",
       "photo": "assets/faculty/mezbaul-islam-zion.webp",
       "profileUrl": "https://faculty.daffodilvarsity.edu.bd/profile/cse/zion.html",
-      "placeholder": false
+      "placeholder": false,
+      "dossierUrl": ""
     },
     {
       "id": "md-sazzadur-ahamed",
@@ -312,18 +321,20 @@
       "biography": "Trainer for Prompt Engineering, Communication & Documentation and organizer of the COATS Bangladesh training program on 24 October 2026.",
       "photo": "assets/faculty/md-sazzadur-ahamed.webp",
       "profileUrl": "https://faculty.daffodilvarsity.edu.bd/profile/cse/sazzadur.html",
-      "placeholder": false
+      "placeholder": false,
+      "dossierUrl": ""
     }
   ],
   "facilitators": [
     {
       "id": "amir-hamza",
       "name": "Amir Hamza",
-      "designation": "HRDI",
-      "responsibilities": "Conducted the scheduled ice-breaking session on 16 July 2026.",
-      "biography": "Facilitated the opening-day ice-breaking session for the training program.",
-      "photo": "",
-      "placeholder": false
+      "designation": "Assistant Director, Human Resource Development Institute (HRDI)",
+      "responsibilities": "Conducted the ice-breaking session for the AI-Powered Productivity Transformation & Strategic Leadership Training on 16 July 2026.",
+      "biography": "Amir Hamza is Assistant Director at the Human Resource Development Institute (HRDI).",
+      "photo": "assets/faculty/amir-hamza.webp",
+      "placeholder": false,
+      "profileUrl": "https://hrdi.ac/team/amir-hamza"
     },
     {
       "id": "md-sazzadur-ahamed",
@@ -368,5 +379,16 @@
     "email": "",
     "phone": "",
     "inquiryDetails": "Contact the department to discuss training objectives, audience, preferred dates, and delivery format."
-  }
+  },
+  "advisors": [
+    {
+      "id": "sheak-rashed-haider-noori",
+      "name": "Dr. Sheak Rashed Haider Noori",
+      "designation": "Professor & Head, Department of Computer Science and Engineering",
+      "biography": "Dr. Sheak Rashed Haider Noori heads the Department of Computer Science and Engineering at Daffodil International University. He holds a PhD in Information and Communication Technologies from the University of Trento, Italy.",
+      "photo": "assets/faculty/sheak-rashed-haider-noori.webp",
+      "profileUrl": "https://faculty.daffodilvarsity.edu.bd/profile/cse/rashed-haider-noori.html",
+      "placeholder": false
+    }
+  ]
 }
