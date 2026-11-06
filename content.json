@@ -1,0 +1,372 @@
+{
+  "homepage": {
+    "eyebrow": "KNOWLEDGE INTO PRACTICE",
+    "title": "Learning that moves people forward.",
+    "introduction": "Explore the training and professional development initiatives of the Department of Computer Science and Engineering at Daffodil International University.",
+    "bannerImage": "",
+    "bannerAlt": "",
+    "about": "A space to document our training programs, introduce the people behind them, and connect with organizations seeking learning opportunities."
+  },
+  "programs": [
+    {
+      "id": "training-program-01",
+      "title": "AI-Powered Productivity Transformation & Strategic Leadership Training",
+      "category": "AI & Strategic Leadership",
+      "client": "Titas Gas PLC",
+      "date": "2026-07-16",
+      "endDate": "2026-07-18",
+      "venue": "Daffodil International University · Dr. Aminul Islam Seminar Hall & Erasmus Lab",
+      "description": "A three-day training program for employees of Titas Gas PLC, organized by the Department of Computer Science and Engineering at Daffodil International University in collaboration with the Human Resource Development Institute (HRDI).\n\nThe program brought together AI tools for everyday work, research and content creation, leadership building, ethical AI use, and the design of internal digital tools. The schedule combined instructor-led sessions and practical lab work, alongside campus activities and a closing ceremony.",
+      "topics": [
+        "AI tools for workplace productivity: ChatGPT, Gemini and Copilot",
+        "Research and knowledge workflows with NotebookLM and Perplexity AI",
+        "Prompt engineering",
+        "Leadership building",
+        "Presentation design with Canva",
+        "AI posters and videos with Gemini, Google Veo and CapCut",
+        "Ethical aspects of AI",
+        "Internal tool design and deployment with Google Stitch and Bubble"
+      ],
+      "photos": [
+        "assets/ai-leadership-2026/photo-01.webp",
+        "assets/ai-leadership-2026/photo-02.webp",
+        "assets/ai-leadership-2026/photo-03.webp",
+        "assets/ai-leadership-2026/photo-04.webp",
+        "assets/ai-leadership-2026/photo-05.webp",
+        "assets/ai-leadership-2026/photo-06.webp",
+        "assets/ai-leadership-2026/photo-07.webp",
+        "assets/ai-leadership-2026/photo-08.webp",
+        "assets/ai-leadership-2026/photo-09.webp",
+        "assets/ai-leadership-2026/photo-10.webp",
+        "assets/ai-leadership-2026/photo-11.webp",
+        "assets/ai-leadership-2026/photo-12.webp",
+        "assets/ai-leadership-2026/photo-13.webp",
+        "assets/ai-leadership-2026/photo-14.webp",
+        "assets/ai-leadership-2026/photo-15.webp"
+      ],
+      "trainerIds": [
+        "samia-nawshin",
+        "syed-eftasum-alam",
+        "mehfujur-rahman-mubin",
+        "hafijur-rahman",
+        "tanvirul-islam",
+        "shaswata-bhattacharya",
+        "md-taufik-hasan",
+        "forhad-zahid-shaikh",
+        "mezbaul-islam-zion"
+      ],
+      "facilitatorIds": [
+        "amir-hamza"
+      ],
+      "collaboratorIds": [
+        "hrdi"
+      ],
+      "featured": true,
+      "placeholder": false,
+      "clientUrl": "https://titasgas.gov.bd/",
+      "audience": "Employees of Titas Gas PLC",
+      "organizer": "Department of Computer Science and Engineering, Daffodil International University",
+      "organizerUrl": "https://daffodilvarsity.edu.bd/department/cse",
+      "bannerImage": "assets/ai-leadership-2026/banner.webp",
+      "bannerAlt": "Official program banner: AI-Powered Productivity Transformation & Strategic Leadership Training, 16–18 July 2026, DIU CSE and HRDI.",
+      "scheduleUrl": "assets/ai-leadership-2026/schedule.pdf",
+      "photoCaptions": [
+        "Opening session",
+        "Address during the opening session",
+        "Program address",
+        "Discussion during the program",
+        "Opening remarks",
+        "Participants and training team in the seminar hall",
+        "AI tools and workplace productivity session",
+        "Prompt engineering in the Erasmus Lab",
+        "NotebookLM demonstration in the Erasmus Lab",
+        "Discussion of responsible AI and privacy",
+        "Hands-on practice in the Erasmus Lab",
+        "Interactive training discussion",
+        "Campus visit during the program",
+        "Closing session and appreciation certificates",
+        "Training team at the closing session"
+      ],
+      "agenda": [
+        "16 July 2026 | 08:30–09:00 | Registration | — | Knowledge Tower (AB4), DIU",
+        "16 July 2026 | 09:00–09:30 | Inauguration | — | Dr. Aminul Islam Seminar Hall",
+        "16 July 2026 | 09:30–10:00 | Ice-breaking session | Amir Hamza, HRDI | Dr. Aminul Islam Seminar Hall",
+        "16 July 2026 | 10:00–11:30 | Introduction to AI tools: ChatGPT, Gemini and Copilot | Samia Nawshin | Dr. Aminul Islam Seminar Hall",
+        "16 July 2026 | 12:00–13:30 | Mastering NotebookLM: research and productivity | Syed Eftasum Alam | Erasmus Lab",
+        "16 July 2026 | 14:30–16:00 | Perplexity AI and prompt engineering | Mehfujur Rahman Mubin | Erasmus Lab",
+        "16 July 2026 | 17:00–18:30 | Leadership building | Hafijur Rahman | Erasmus Lab",
+        "17 July 2026 | 09:00–09:30 | Recap of previous contents | — | Erasmus Lab",
+        "17 July 2026 | 09:30–11:00 | Canva fundamentals: hands-on presentation design | Tanvirul Islam | Erasmus Lab",
+        "17 July 2026 | 11:30–12:30 | AI content generation: posters and videos with Google Veo and Gemini | Shaswata Bhattacharya | Erasmus Lab",
+        "17 July 2026 | 14:30–15:30 | Digital video production: CapCut and Google Veo | Md. Taufik Hasan | Erasmus Lab",
+        "17 July 2026 | 16:00–17:00 | Ethical aspects of AI | Dr. Forhad Zahid Shaikh | Erasmus Lab",
+        "17 July 2026 | 17:00–18:30 | Boat trip | — | —",
+        "17 July 2026 | 18:30–21:00 | Campus visit and dinner | — | —",
+        "18 July 2026 | 09:00–09:30 | Recap of previous contents | — | Erasmus Lab",
+        "18 July 2026 | 09:30–11:00 | Design to deployment of internal tools: Google Stitch and Bubble | Mezbaul Islam Zion + Shaswata Bhattacharya | Erasmus Lab",
+        "18 July 2026 | 11:30–12:00 | Lab visit | — | —",
+        "18 July 2026 | 12:00–13:00 | Session 2 (topic not specified in schedule) | Mezbaul Islam Zion + Shaswata Bhattacharya | Erasmus Lab",
+        "18 July 2026 | 14:00–15:30 | Session 3 (topic not specified in schedule) | Mezbaul Islam Zion + Shaswata Bhattacharya | Erasmus Lab",
+        "18 July 2026 | 16:00–18:00 | Closing ceremony | — | Dr. Aminul Islam Seminar Hall"
+      ],
+      "clientLogo": "assets/logos/titas-gas.png"
+    },
+    {
+      "id": "training-program-02",
+      "title": "AI-Powered Workplace Productivity & Smart Office Practices",
+      "category": "AI & Workplace Productivity",
+      "client": "COATS Bangladesh",
+      "date": "2026-10-24",
+      "endDate": "",
+      "venue": "Knowledge Tower, Daffodil International University · Room 201 KT (ceremonies) & Room 503 KT (training)",
+      "description": "A one-day training program for employees of COATS Bangladesh, organized by the Department of Computer Science and Engineering at Daffodil International University in collaboration with SkillJobs.\n\nThe program focused on practical AI skills for everyday office work: responsible use, prompt engineering, communication and documentation, analysis, planning, and presentations. Four training sessions incorporated assessment periods and an integrated hands-on workplace challenge.",
+      "topics": [
+        "AI fundamentals, responsible use and workplace applications",
+        "Prompt engineering for workplace tasks",
+        "Communication and documentation with AI",
+        "Analysis and planning for office productivity",
+        "Presentation productivity",
+        "Integrated hands-on workplace challenge and assessment"
+      ],
+      "photos": [
+        "assets/coats-workplace-2026/photo-01.webp",
+        "assets/coats-workplace-2026/photo-02.webp",
+        "assets/coats-workplace-2026/photo-03.webp",
+        "assets/coats-workplace-2026/photo-04.webp",
+        "assets/coats-workplace-2026/photo-05.webp",
+        "assets/coats-workplace-2026/photo-06.webp",
+        "assets/coats-workplace-2026/photo-07.webp",
+        "assets/coats-workplace-2026/photo-08.webp",
+        "assets/coats-workplace-2026/photo-09.webp",
+        "assets/coats-workplace-2026/photo-10.webp"
+      ],
+      "trainerIds": [
+        "samia-nawshin",
+        "md-sazzadur-ahamed",
+        "syed-eftasum-alam",
+        "shaswata-bhattacharya"
+      ],
+      "facilitatorIds": [
+        "md-sazzadur-ahamed",
+        "ishmat-zahan"
+      ],
+      "collaboratorIds": [
+        "skilljobs"
+      ],
+      "featured": true,
+      "placeholder": false,
+      "clientUrl": "https://www.coats.com/en/global-directory/bangladesh/",
+      "audience": "Employees of COATS Bangladesh",
+      "organizer": "Department of Computer Science and Engineering, Daffodil International University",
+      "organizerUrl": "https://daffodilvarsity.edu.bd/department/cse",
+      "bannerImage": "",
+      "bannerAlt": "",
+      "scheduleUrl": "assets/coats-workplace-2026/program-rundown.pdf",
+      "photoCaptions": [
+        "Participants and program team outside the university building",
+        "Participants gathered in the seminar room",
+        "Interactive discussion during the practical training",
+        "Hands-on learning in the computer lab",
+        "Recognition presentation during the program",
+        "Group photograph at the Department of CSE",
+        "Participants and training team at the Department of CSE",
+        "Recognition presentation with the program team",
+        "Recognition presentation with the program team",
+        "Recognition presentation with the program team"
+      ],
+      "agenda": [
+        "24 October 2026 | 09:00–09:30 | Opening ceremony: welcome, partner remarks and opening address | Md. Sazzadur Ahamed; Shahanur Alom Zibon (Skill Jobs); Dr. S. M. Aminul Haque (Associate Head, CSE); Dr. Sheak Rashed Haider Noori (Head, CSE) | Room 201 KT, 2nd Floor",
+        "24 October 2026 | 09:30–11:00 | AI Fundamentals, Responsible Use & Workplace Applications (assessment: 10:30–11:00) | Samia Nawshin | Room 503 KT, 5th Floor",
+        "24 October 2026 | 11:00–11:15 | Tea break | — | —",
+        "24 October 2026 | 11:15–12:45 | Prompt Engineering, Communication & Documentation (assessment: 12:15–12:45) | Md. Sazzadur Ahamed | Room 503 KT, 5th Floor",
+        "24 October 2026 | 12:45–13:45 | Lunch and prayer break | — | Green Garden (lunch)",
+        "24 October 2026 | 13:45–15:30 | Analysis, Planning & Presentation Productivity (assessment: 15:00–15:30) | Syed Eftasum Alam | Room 503 KT, 5th Floor",
+        "24 October 2026 | 15:30–15:45 | Tea break | — | —",
+        "24 October 2026 | 15:45–17:30 | Integrated Hands-On Workplace Challenge & Assessment (assessment: 17:00–17:30) | Shaswata Bhattacharya | Room 503 KT, 5th Floor",
+        "24 October 2026 | 17:30–18:00 | Closing ceremony: recap, closing remarks, planned awards and group photograph | Dr. Sheak Rashed Haider Noori; vote of thanks: Md. Sazzadur Ahamed | Room 201 KT, 2nd Floor"
+      ],
+      "clientLogo": "assets/logos/coats.svg"
+    }
+  ],
+  "trainers": [
+    {
+      "id": "samia-nawshin",
+      "name": "Samia Nawshin",
+      "designation": "Assistant Professor, Department of CSE, DIU",
+      "expertise": [
+        "AI tools and workplace applications",
+        "Responsible AI use",
+        "ChatGPT, Gemini and Copilot"
+      ],
+      "biography": "Program trainer for the July 2026 Titas Gas PLC training and the October 2026 COATS Bangladesh training. Sessions covered AI tools, AI fundamentals, responsible use and workplace applications.",
+      "photo": "assets/faculty/samia-nawshin.webp",
+      "profileUrl": "https://faculty.daffodilvarsity.edu.bd/profile/cse/samia.html",
+      "placeholder": false
+    },
+    {
+      "id": "syed-eftasum-alam",
+      "name": "Syed Eftasum Alam",
+      "designation": "Lecturer, Department of CSE, DIU",
+      "expertise": [
+        "Research and productivity with NotebookLM",
+        "Analysis, planning and presentation productivity"
+      ],
+      "biography": "Program trainer for NotebookLM research and productivity in the July 2026 Titas Gas PLC program, and Analysis, Planning & Presentation Productivity in the October 2026 COATS Bangladesh program.",
+      "photo": "assets/faculty/syed-eftasum-alam.webp",
+      "profileUrl": "https://faculty.daffodilvarsity.edu.bd/profile/cse/eftasum.html",
+      "placeholder": false
+    },
+    {
+      "id": "mehfujur-rahman-mubin",
+      "name": "Mehfujur Rahman Mubin",
+      "designation": "Lecturer, Department of CSE, DIU",
+      "expertise": [
+        "Research workflows and effective prompts"
+      ],
+      "biography": "Led the scheduled sessions on perplexity ai and prompt engineering for the AI-Powered Productivity Transformation & Strategic Leadership Training, 16–18 July 2026.",
+      "photo": "assets/faculty/mehfujur-rahman-mubin.webp",
+      "profileUrl": "https://faculty.daffodilvarsity.edu.bd/profile/cse/mehefujur.html",
+      "placeholder": false
+    },
+    {
+      "id": "hafijur-rahman",
+      "name": "Hafijur Rahman",
+      "designation": "Program trainer",
+      "expertise": [
+        "Leadership development"
+      ],
+      "biography": "Led the scheduled sessions on leadership building for the AI-Powered Productivity Transformation & Strategic Leadership Training, 16–18 July 2026.",
+      "photo": "",
+      "profileUrl": "",
+      "placeholder": false
+    },
+    {
+      "id": "tanvirul-islam",
+      "name": "Tanvirul Islam",
+      "designation": "Lecturer (Senior Scale), Department of CSE, DIU",
+      "expertise": [
+        "Hands-on presentation design"
+      ],
+      "biography": "Led the scheduled sessions on canva presentation design for the AI-Powered Productivity Transformation & Strategic Leadership Training, 16–18 July 2026.",
+      "photo": "assets/faculty/tanvirul-islam.webp",
+      "profileUrl": "https://faculty.daffodilvarsity.edu.bd/profile/cse/tanvirulcse.html",
+      "placeholder": false
+    },
+    {
+      "id": "shaswata-bhattacharya",
+      "name": "Shaswata Bhattacharya",
+      "designation": "Lecturer, Department of CSE, DIU",
+      "expertise": [
+        "AI content creation and internal tools",
+        "Hands-on workplace challenges and assessment"
+      ],
+      "biography": "Program trainer for AI content creation and internal tool development in the July 2026 Titas Gas PLC program, and the Integrated Hands-On Workplace Challenge & Assessment in the October 2026 COATS Bangladesh program.",
+      "photo": "assets/faculty/shaswata-bhattacharya.webp",
+      "profileUrl": "https://faculty.daffodilvarsity.edu.bd/profile/cse/shaswata.html",
+      "placeholder": false
+    },
+    {
+      "id": "md-taufik-hasan",
+      "name": "Md. Taufik Hasan",
+      "designation": "Lecturer, Department of CSE, DIU",
+      "expertise": [
+        "CapCut and Google Veo"
+      ],
+      "biography": "Led the scheduled sessions on digital video production for the AI-Powered Productivity Transformation & Strategic Leadership Training, 16–18 July 2026.",
+      "photo": "assets/faculty/md-taufik-hasan.webp",
+      "profileUrl": "https://faculty.daffodilvarsity.edu.bd/profile/cse/taufikhasan.html",
+      "placeholder": false
+    },
+    {
+      "id": "forhad-zahid-shaikh",
+      "name": "Dr. Forhad Zahid Shaikh",
+      "designation": "Program trainer",
+      "expertise": [
+        "Responsible AI use"
+      ],
+      "biography": "Led the scheduled sessions on ethical aspects of ai for the AI-Powered Productivity Transformation & Strategic Leadership Training, 16–18 July 2026.",
+      "photo": "",
+      "profileUrl": "",
+      "placeholder": false
+    },
+    {
+      "id": "mezbaul-islam-zion",
+      "name": "Mezbaul Islam Zion",
+      "designation": "Lecturer, Department of CSE, DIU",
+      "expertise": [
+        "Google Stitch and Bubble"
+      ],
+      "biography": "Led the scheduled sessions on ai design and development for the AI-Powered Productivity Transformation & Strategic Leadership Training, 16–18 July 2026.",
+      "photo": "assets/faculty/mezbaul-islam-zion.webp",
+      "profileUrl": "https://faculty.daffodilvarsity.edu.bd/profile/cse/zion.html",
+      "placeholder": false
+    },
+    {
+      "id": "md-sazzadur-ahamed",
+      "name": "Md. Sazzadur Ahamed",
+      "designation": "Assistant Professor, Department of CSE, DIU",
+      "expertise": [
+        "Prompt engineering",
+        "Communication and documentation"
+      ],
+      "biography": "Trainer for Prompt Engineering, Communication & Documentation and organizer of the COATS Bangladesh training program on 24 October 2026.",
+      "photo": "assets/faculty/md-sazzadur-ahamed.webp",
+      "profileUrl": "https://faculty.daffodilvarsity.edu.bd/profile/cse/sazzadur.html",
+      "placeholder": false
+    }
+  ],
+  "facilitators": [
+    {
+      "id": "amir-hamza",
+      "name": "Amir Hamza",
+      "designation": "HRDI",
+      "responsibilities": "Conducted the scheduled ice-breaking session on 16 July 2026.",
+      "biography": "Facilitated the opening-day ice-breaking session for the training program.",
+      "photo": "",
+      "placeholder": false
+    },
+    {
+      "id": "md-sazzadur-ahamed",
+      "name": "Md. Sazzadur Ahamed",
+      "designation": "Assistant Professor, Department of CSE, DIU",
+      "responsibilities": "Program organization, welcome remarks and vote of thanks, as listed in the rundown.",
+      "biography": "Organizer and trainer for the COATS Bangladesh workplace productivity program.",
+      "photo": "assets/faculty/md-sazzadur-ahamed.webp",
+      "placeholder": false,
+      "profileUrl": "https://faculty.daffodilvarsity.edu.bd/profile/cse/sazzadur.html"
+    },
+    {
+      "id": "ishmat-zahan",
+      "name": "Ishmat Zahan",
+      "designation": "Junior Executive – Business Development, Skill Jobs",
+      "responsibilities": "Program coordination, as identified in the rundown.",
+      "biography": "SkillJobs coordinator for the AI-Powered Workplace Productivity & Smart Office Practices program.",
+      "photo": "",
+      "placeholder": false
+    }
+  ],
+  "collaborators": [
+    {
+      "id": "hrdi",
+      "name": "Human Resource Development Institute (HRDI)",
+      "logo": "assets/logos/hrdi.webp",
+      "website": "https://hrdi.ac/",
+      "contribution": "Collaborated with the Department of CSE, Daffodil International University, on this training program for employees of Titas Gas PLC.",
+      "placeholder": false
+    },
+    {
+      "id": "skilljobs",
+      "name": "SkillJobs",
+      "logo": "assets/logos/skilljobs.png",
+      "website": "https://skill.jobs/",
+      "contribution": "Collaborated with the Department of CSE, Daffodil International University, on the COATS Bangladesh training program. The rundown identifies partner remarks from Shahanur Alom Zibon and coordination by Ishmat Zahan.",
+      "placeholder": false
+    }
+  ],
+  "contact": {
+    "address": "Department of Computer Science and Engineering, Daffodil International University. Add the confirmed department mailing address.",
+    "email": "",
+    "phone": "",
+    "inquiryDetails": "Contact the department to discuss training objectives, audience, preferred dates, and delivery format."
+  }
+}
