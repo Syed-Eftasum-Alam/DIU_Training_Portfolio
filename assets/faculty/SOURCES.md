@@ -26,3 +26,13 @@ Retrieved 6 November 2026. Portraits and designations are taken from the supplie
 - tanvirul-islam: https://faculty.daffodilvarsity.edu.bd/profile/cse/tanvirulcse.html
   Portrait: https://faculty.daffodilvarsity.edu.bd/images/teacher/1abdf450f0b06cf853df6fb1803df633.jpg
   Designation: Lecturer (Senior Scale)
+
+- forhad-zahid-shaikh: https://www.linkedin.com/in/forhadzahidshaikh/
+  Portrait: https://softexpo.com.bd/assets/media/speaker_photo/1676989682.jpg
+  Portrait identified by the named BASIS SoftExpo speaker page: https://softexpo.com.bd/speakers/profile/212/mr-md-forhad-zahid-shaikh
+  Retrieved 7 November 2026.
+
+- amir-hamza: https://hrdi.ac/team/amir-hamza
+  Designation: Assistant Director, HRDI.
+  Portrait: https://hrdi.ac/uploads/adminboard/adminteam/amir-hamza-1772699210.webp
+  Retrieved 7 November 2026.
