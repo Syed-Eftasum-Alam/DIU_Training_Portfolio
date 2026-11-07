@@ -269,7 +269,7 @@
       "photo": "assets/faculty/shaswata-bhattacharya.webp",
       "profileUrl": "https://faculty.daffodilvarsity.edu.bd/profile/cse/shaswata.html",
       "placeholder": false,
-      "dossierUrl": ""
+      "dossierUrl": "assets/dossiers/shaswata-bhattacharya-cv.pdf"
     },
     {
       "id": "md-taufik-hasan",
@@ -322,7 +322,7 @@
       "photo": "assets/faculty/md-sazzadur-ahamed.webp",
       "profileUrl": "https://faculty.daffodilvarsity.edu.bd/profile/cse/sazzadur.html",
       "placeholder": false,
-      "dossierUrl": ""
+      "dossierUrl": "assets/dossiers/md-sazzadur-ahamed-cv.pdf"
     }
   ],
   "facilitators": [

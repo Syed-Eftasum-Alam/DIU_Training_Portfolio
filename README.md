@@ -71,3 +71,9 @@ The site uses the supplied DIU and CSE logos in its header, footer and program o
 ## Advisor and trainer dossiers
 
 The homepage advisor section appears immediately above the trainers. Advisor profiles can be edited in the Our Advisor editor tab. Dr. Noori’s portrait was supplied by the user; his designation and academic summary reference his official DIU faculty profile. Trainer records support an optional dossierUrl linking to a local CV PDF. Syed Eftasum Alam’s supplied CV is available as assets/dossiers/syed-eftasum-alam-cv.pdf. Dossier links appear only when a PDF is provided. Upload the new assets together with the updated code and content.json to GitHub.
+
+## Publish updates from this PC
+
+This folder tracks the existing GitHub repository on main. Edit and preview the site locally, then double-click PUBLISH-GITHUB.cmd. The publisher fetches the remote state, lists changed files and their diff summary, and asks for Y/N confirmation. Review the actual edits in your editor or with git diff before confirming. It commits all project changes with the message "Update training portfolio" and pushes main without force. It stops if GitHub has newer or divergent history, so those changes can be synchronized and reviewed first.
+
+Nothing is automatically pushed when a file is saved. If authentication is requested, sign in to GitHub. Successful pushing and GitHub Pages deployment are separate: an account billing lock can still block deployment.
